@@ -1,2 +1,2 @@
 # APG-Course
-This repository just resoure and file or learning about Advance Programing 
+This repository is just a resource and file for learning about Advanced Programming Course 
